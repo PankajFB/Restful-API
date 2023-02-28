@@ -8,3 +8,5 @@ It will give response in the JSON format
 Always type the name of the city in capital letters
 
 We can search the branches using their ifsc, bank_id, city, district, state and bank_name
+
+It took me around 3 days to complete this project
