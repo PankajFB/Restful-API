@@ -6,3 +6,5 @@ And now lets say if we want only branches that are in mumbai only pass this as t
 For Example https://drab-red-hummingbird-slip.cyclic.app/api?city=MUMBAI
 It will give response in the JSON format
 Always type the name of the city in capital letters
+
+We can search the branches using their ifsc, bank_id, city, district, state and bank_name
